@@ -93,7 +93,6 @@ public class RestroController {
 
 #### To See Controller
 :white_check_mark: [Restaurent-Controller](https://github.com/Anushri-glitch/Restaurent-Model-Application/tree/master/src/main/java/com/Shrishti/RestaurantModelApplication/Controller)
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :three: DataStructures Used in Project
     1. ArrayList
