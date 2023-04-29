@@ -109,7 +109,7 @@ public class RestroController {
 ![Resto4](https://user-images.githubusercontent.com/47708011/233851239-fa5f747d-67bc-4731-a4db-1dce91454567.png)
 ![Resto5](https://user-images.githubusercontent.com/47708011/233851283-6d276b1d-a0d7-41a7-88be-ddb9fabde2ed.png)
 
-#### :purple_square: PUT API (For All Restaurent) : http://localhost:8080/api/restro-app/delete-restaurent/number/1001
+#### :purple_square: DELETE API : http://localhost:8080/api/restro-app/delete-restaurent/number/1001
 ![Resto7](https://user-images.githubusercontent.com/47708011/233851360-7b1f66f5-0889-494e-99ac-5a15c85b7b3d.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
